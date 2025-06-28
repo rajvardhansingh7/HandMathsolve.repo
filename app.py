@@ -271,7 +271,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style='text-align: center; color: #666;'>
-        <p>Built with ❤️ using OpenCV, MediaPipe, and Streamlit</p>
+        <p>Built using OpenCV, MediaPipe, and Streamlit</p>
         <p>Press 'Start' to begin gesture recognition</p>
     </div>
     """, unsafe_allow_html=True)
