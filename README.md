@@ -9,7 +9,7 @@ A real-time hand gesture-based calculator that lets users input and evaluate mat
 ## 👋 About Me
 
 Hi, I'm Rajvardhan Singh—a passionate developer combining AI, computer vision, and user-first design to create intuitive, hands-free applications.
-
+contribution also done by abhinav pandey 
 ---
 
 ## 🚀 Features
